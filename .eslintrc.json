@@ -57,7 +57,8 @@
     "import/no-extraneous-dependencies": [
       "error",
       { "devDependencies": ["**/*.spec.ts"] }
-    ]
+    ], 
+    "prettier/prettier": "off"
   },
   "settings": {
     "import/resolver": {
